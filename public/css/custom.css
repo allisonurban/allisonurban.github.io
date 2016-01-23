@@ -1,6 +1,10 @@
 html {
-  font-family: "Open Sans", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Varela Round", "Open Sans", "PT Sans", Helvetica, Arial, sans-serif;
   line-height: 2.0;
+}
+
+.sidebar {
+    background-image: url("/public/images/congruent_outline.png"); 
 }
 
 .sidebar-about h1 {
@@ -26,6 +30,10 @@ html {
 .small {
     font-size:0.8rem;
 }
+
+/*h1 {
+    font-family: 'Inconsolata', 'Open Sans', sans-serif;
+}*/
 
 /*font-family: 'Open Sans', sans-serif;
 font-size: 16px;
